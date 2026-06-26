@@ -1,0 +1,119 @@
+{
+    "file:///C:/Houdini/geo/fbx/cafe/cup_export.fbx": {
+        "scale": 0.17,
+        "rx": 0.0,
+        "ry": 0.0,
+        "rz": 180.0,
+        "maxstack_num": 5,
+        "stack_seed": 7,
+        "weight": 4
+    },
+    "file:///C:/Houdini/geo/fbx/cafe/plate.fbx": {
+        "scale": 0.53,
+        "rx": 0.0,
+        "ry": 0.0,
+        "rz": 0.0,
+        "maxstack_num": 7,
+        "stack_seed": 9,
+        "weight": 1
+    },
+    "file:///C:/Houdini/geo/fbx/cafe/Coffee_Grinder.fbx": {
+        "scale": 0.1299999999999999,
+        "rx": 0.0,
+        "ry": 0.0,
+        "rz": 0.0,
+        "maxstack_num": 1,
+        "stack_seed": 0,
+        "weight": 1
+    },
+    "file:///C:/Houdini/geo/fbx/cafe/jam_jar.fbx": {
+        "scale": 0.005,
+        "rx": 0.0,
+        "ry": 0.0,
+        "rz": 0.0,
+        "maxstack_num": 1,
+        "stack_seed": 0,
+        "weight": 3
+    },
+    "file:///C:/Houdini/geo/fbx/cafe/coffeebag.fbx": {
+        "scale": 0.25500000000000006,
+        "rx": 0.0,
+        "ry": 0.0,
+        "rz": 0.0,
+        "maxstack_num": 1,
+        "stack_seed": 0,
+        "weight": 2
+    },
+    "file:///C:/Houdini/geo/fbx/cafe/Book_wleidix_Low.fbx": {
+        "scale": 0.07499999999999998,
+        "rx": 0.0,
+        "ry": 0.0,
+        "rz": 90.0,
+        "maxstack_num": 8,
+        "stack_seed": 7,
+        "weight": 3
+    },
+    "file:///C:/Houdini/geo/fbx/cafe/Green_Book_vdkvbb2_Low.fbx": {
+        "scale": 0.10499999999999997,
+        "rx": 0.0,
+        "ry": 0.0,
+        "rz": 0.0,
+        "maxstack_num": 9,
+        "stack_seed": 7,
+        "weight": 3
+    },
+    "file:///C:/Houdini/geo/fbx/cafe/Coffee_Pot.fbx": {
+        "scale": 0.325,
+        "rx": 0.0,
+        "ry": 0.0,
+        "rz": 0.0,
+        "maxstack_num": 1,
+        "stack_seed": 1,
+        "weight": 2
+    },
+    "file:///C:/Houdini/geo/fbx/cafe/Espresso_Coffee_Maker.fbx": {
+        "scale": 0.006,
+        "rx": 0.0,
+        "ry": 0.0,
+        "rz": 0.0,
+        "maxstack_num": 1,
+        "stack_seed": 1,
+        "weight": 2
+    },
+    "file:///C:/Houdini/geo/fbx/cafe/plate_2.fbx": {
+        "scale": 0.24,
+        "rx": 0.0,
+        "ry": 0.0,
+        "rz": 0.0,
+        "maxstack_num": 10,
+        "stack_seed": 7,
+        "weight": 6
+    },
+    "file:///C:/Houdini/geo/fbx/cafe/coffeebag_2.fbx": {
+        "scale": 0.03999999999999992,
+        "rx": 0.0,
+        "ry": 0.0,
+        "rz": 0.0,
+        "maxstack_num": 1,
+        "stack_seed": 1,
+        "weight": 6
+    },
+    "file:///C:/Houdini/geo/fbx/cafe/cup_blue.fbx": {
+        "scale": 0.012,
+        "rx": 0.0,
+        "ry": 0.0,
+        "rz": 180.0,
+        "maxstack_num": 4,
+        "stack_seed": 7,
+        "weight": 5
+    },
+    "file:///C:/Houdini/geo/fbx/cafe/pancake_plate.fbx": {
+        "scale": 0.007,
+        "rx": 0.0,
+        "ry": 0.0,
+        "rz": 0.0,
+        "maxstack_num": 4,
+        "stack_seed": 7,
+        "weight": 5
+    }
+}
